@@ -95,7 +95,7 @@ const educationInfo = {
       schoolName: "Delhi Public School , Etawah",
       logo: require("./assets/images/dps.png"),
       subHeader: "High School ",
-      duration: "September 2013 - April 2018",
+      duration: "September 2013 - April 2017",
       desc: "CBSE (89.6%)",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
