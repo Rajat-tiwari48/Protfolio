@@ -133,31 +133,25 @@ const workExperiences = {
       company: "GolokaIT",
       link:"https://drive.google.com/file/d/1xmcATK0VGFzWuvLNza5XQUvWeIXPUHwn/view?usp=drive_link",
       date: "July 2024 – August 2024",
-      desc: "Completed an internship by Digizura Pvt Ltd on a role of MERN Stack Developer",
+      desc: "Completed an internship by GoloksIT on a role of Frontend Developer.",
    
     },
     {
-      role: "Freelancer",
-      company: "Teific Pvt Ltd",
-      link:"https://teific.in/",
-      date: "June 2024 – July 2024",
-      desc: "Completed an project as a Freelancer",
-   
+      role: "Web Development Workshop",
+      company: "Microsoft Learn Student Ambassadors",
+      link:"https://drive.google.com/file/d/1qqFnIQsYTPW-K2dc8I4XCSB1XQADIsMc/view?usp=sharing",
+      date: "May 2024 – june 2024",
+      desc: "Completed a Web Development workshop conducted by Microsoft Learn Student Ambassadors, gaining hands-on experience with modern web technologies."
     },
+
+
     {
       role: "Web Develoment",
       company: "Oasis Infobyte",
-      link:"https://drive.google.com/file/d/1hiVDecJXfGuz8mzNaG2BzwA9h3GGrWE8/view?usp=sharing",
+      link:"https://drive.google.com/file/d/1q3tIC-e1COuR3B8ek1K038cChm2FhUY6/view?usp=sharing",
       date: "June 2023 – July 2023",
-      desc: "Completed an internship by IBM SkillBuild by Edunet Foundation under AICTE on Frontend Development.",
+      desc: "Completed a web development internship at Oasis Infobyte, building projects like a login page, to-do list, and calculator.",
    
-    },
-    {
-      role: "Ai-ML Virtual Internship",
-      company: "EduSkills supported by AWS",
-      link:"https://drive.google.com/file/d/1xz9VCdSoeybkRV-Pm2RwQKFZP2nYNP_m/view?usp=sharing",
-      date: "August 2023 – September 2023",
-      desc: "Completed an virtual internship on AI-ML by EduSkills supported by AWS Academy."
     },
 
   ]
