@@ -26,7 +26,7 @@ const greeting = {
     "Passionate about crafting cutting-edge web solutions to tackle real-world challenges with innovation and creativity. Committed to excellence, I transform ideas into impactful, user-centric designs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1MnCy_FsScMisopSupIjmRZhoasiARYJy/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Uj4DJ7ZRqnENTo38fQwe3UUgxErg2cpS/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -96,7 +96,7 @@ const educationInfo = {
       logo: require("./assets/images/dps.png"),
       subHeader: "High School ",
       duration: "September 2013 - April 2017",
-      desc: "CBSE (89.6%)",
+      desc: "CBSE (85.2%)",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -131,7 +131,7 @@ const workExperiences = {
     {
       role: "Frontend Developer Intern",
       company: "GolokaIT",
-      link:"https://drive.google.com/file/d/1xmcATK0VGFzWuvLNza5XQUvWeIXPUHwn/view?usp=drive_link",
+      link:"https://drive.google.com/file/d/1ldA-IaiU9EfBQHaf1qyvmxOkg7w_WJnW/view?usp=sharing",
       date: "July 2024 – August 2024",
       desc: "Completed an internship by GoloksIT on a role of Frontend Developer.",
    
@@ -174,35 +174,32 @@ const bigProjects = {
     {
       image: require("./assets/images/black logo.png"),
       imageDark: require("./assets/images/squarelogo-removebg-preview.png"),
-      projectName: "WeDesigneTees",
-      projectDesc: "Full Stack Tshirt purchasing website",
+      projectName: "EasyMart",
+      projectDesc: "Full Stack E-commerce website",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://we-designe-tees.vercel.app/"
+          url: "https://easy-mart-rajat.vercel.app/"
         },
         {
           name: "Github",
-          url: "https://github.com/varungupta1729/WeDesigneTees"
-        },{
-          name: "Video",
-          url: "https://www.youtube.com/watch?v=vxWTz7_SAVI&feature=youtu.be"
-        }
+          url: "https://github.com/Rajat-tiwari48/EasyMart"
+        },
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/Logo-Full-Dark.png"),
-      imageDark: require("./assets/images/Logo-Full-Light.png"),
-      projectName: "EdTech Platform",
-      projectDesc: "Students course purchasing website ",
+      image: require("./assets/images/tomato-logos.png"),
+      imageDark: require("./assets/images/tomato-logos.png"),
+      projectName: "TOMATO Food App",
+      projectDesc: "Food Ordering App",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://edtech-platform-varungupta.vercel.app/"
+          url: "https://tomato-sage-theta.vercel.app/"
         },  {
           name: "Github",
-          url: "https://github.com/varungupta1729/EdTech-Platform"
+          url: "https://github.com/Rajat-tiwari48/Tomato"
         }
       ]
     },
@@ -210,29 +207,29 @@ const bigProjects = {
       image: "https://seekvectors.com/files/download/Black%20Color%20Netflix-01.png",
       imageDark:"https://seekvectors.com/files/download/Netflix-Logo-03.png",
       projectName: "NetflixGPT",
-      projectDesc: "Watch Movies with AI assistance",
+      projectDesc: "Watch Movies with AI",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://netflix-gpt-seven-opal.vercel.app/"
+          url: "https://netflix-five-pink-69.vercel.app/"
         },  {
           name: "Github",
-          url: "https://github.com/varungupta1729/Netflix-GPT"
+          url: "https://github.com/Rajat-tiwari48/netflix"
         }
       ]
     },
     {
-      image: require("./assets/images/DesignerStudio_Black.png"),
-      imageDark: require("./assets/images/DesignerStudio_WHite.png"),
-      projectName: "DesignerStudio",
-      projectDesc: "Design your Clothes with AI",
+      image: require("./assets/images/todo-logo.png"),
+      imageDark: require("./assets/images/todo-logo.png"),
+      projectName: "TODO App",
+      projectDesc: "TODO App with Authentication Using MERN Stack",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://designer-studio.vercel.app/"
+          url: "https://todo-react-rajat-one.vercel.app/"
         },  {
           name: "Github",
-          url: "https://github.com/varungupta1729/DesignerStudio"
+          url: "https://github.com/Rajat-tiwari48/Todo-frontend"
         }
       ]
     }
@@ -309,47 +306,32 @@ const blogSection = {
     "Check my Github for Code",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
+   
+   
     {
-      url: "https://reddit-comments-teal.vercel.app/",
-      title: "Reddit Nested Comments (Typescript) with Unit Testing ",
+      url: "https://currency-converter-ten-neon.vercel.app/",
+      title: "Currency Converter",
       description:
-        "https://logos-world.net/wp-content/uploads/2023/12/Reddit-Logo.jpg"
+        "https://currencyconvertersinc.com/wp-content/uploads/2016/05/GlobalCurrency_WebsiteHomepageDesign_Desktop_02.png"
     },
     {
-      url: "https://wedesigneteescustome.vercel.app/",
-      title: "3D Tshirt Customization",
-      description:
-        "https://cdn3.f-cdn.com//files/download/205877223/3dShirt.png?fit=crop"
-    },
-    {
-      url: "https://quiz-app-eta-ashy.vercel.app/",
-      title: "Quiz App",
-      description:
-        "https://repository-images.githubusercontent.com/182525249/aadd7a80-54fe-11eb-9872-ccd06b8789b6"
-    },
-    {
-      url: "https://basic-portfolio-mocha.vercel.app/",
+      url: "https://github.com/Rajat-tiwari48/Protfolio",
       title: "Portfolio Assignement using JSON Server (Check More about it on my Github) ",
       description:
         "https://ezahn47ugtf.exactdn.com/wp-content/uploads/2022/05/portfolio-book-creation-scaled.jpg?strip=all&lossy=1&ssl=1"
     },
+   
     {
-      url: "https://carts-learning.vercel.app/",
-      title: "Learning Add to Cart",
-      description:
-        "https://blendcommerce.com/cdn/shop/articles/ATC_header.png?v=1647348950"
-    },
-    {
-      url: "https://food-recipe-for-learning.vercel.app/",
+      url: "https://tomato-sage-theta.vercel.app/",
       title: "Food Recipe App",
       description:
         "https://cdn.mos.cms.futurecdn.net/5rReTf4Cyr6CmhYLv2BWz4.jpg"
     },
     {
-      url: "https://www.wedesignetees.com/",
-      title: "Wholesale Tshirt",
+      url: "https://calculator-mu-steel-97.vercel.app/",
+      title: "calculator",
       description:
-        "https://www.shutterstock.com/image-vector/tshirt-vector-icon-set-clothing-260nw-2284531331.jpg"
+        "https://static.vecteezy.com/system/resources/previews/026/183/272/original/creative-calculator-logo-icon-design-template-free-vector.jpg"
     },
     {
       url: "https://react-basic-projects-for-learning.vercel.app/",
@@ -358,40 +340,35 @@ const blogSection = {
         "https://media.licdn.com/dms/image/C511BAQF8F2Wry9GTXQ/company-background_10000/0/1584269093982/reactofficial_cover?e=2147483647&v=beta&t=TMIox6sTR3227DIw-2U1I_gk7cqj7xktbb2OkKNfvo4"
     },
     {
-      url: "https://varungupta1729.github.io/SnakeGame-MiniProject/",
+      url: "https://snake-game-sepia-psi.vercel.app/",
       title: "Snake Game",
       description:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-d1D3os2A_8b4UvQDEaM7N0JbkcYxYvM5A&s"
     },
     {
-      url: "https://ibm-clone-website.vercel.app/",
-      title: "Amazon Clone",
+      url: "https://stope-watch-nine.vercel.app/",
+      title: "StopeWatch",
       description:
-        "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2018/07/amazon-1200x537-1-1531806703.jpg"
+        "https://i.ytimg.com/vi/cO-qjCC_UYQ/maxresdefault.jpg"
     },
     {
-      url: "https://varungupta1729.github.io/Fyle-Task/",
-      title: "Learning Html , Css , Javascript",
+      url: "https://password-generator-lyart-gamma.vercel.app/",
+      title: "Generate Pass",
       description:
-        "https://www.web-development-institute.com/wp-content/uploads/2017/04/7-Important-Tips-for-Smart-Coding-in-HTML-CSS-and-JavaScript.jpg"
+        "https://www.codewithrandom.com/wp-content/uploads/2022/08/Password-Generator.png"
     },
     {
-      url: "https://varungupta1729.github.io/Rock-Paper-Scissor_Mini-Project/",
+      url: "https://rock-paper-scissor-bice.vercel.app/",
       title: "Rock Paper Scissor Game",
       description:
         "https://i.ytimg.com/vi/qWPtKtYEsN4/maxresdefault.jpg"
     },
+  
     {
-      url: "https://varungupta1729.github.io/Stopwatch-MiniProject/",
-      title: "Stopwatch",
+      url: "https://theme-switcher-gamma-lilac.vercel.app/",
+      title: "Theme Switcher",
       description:
-        "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/53325b89de8c.png"
-    },
-    {
-      url: "https://task-tracker-mini-project.vercel.app/",
-      title: "Task Tracker",
-      description:
-        "https://logopond.com/logos/d11a4477ce62b0937219c93dc7e08f93.png"
+        "https://p.kindpng.com/picc/s/574-5748054_switcher-studio-logo-hd-png-download.png"
     },
   ],
   display: true // Set false to hide this section, defaults to true
