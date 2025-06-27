@@ -26,7 +26,7 @@ const greeting = {
     "Passionate about crafting cutting-edge web solutions to tackle real-world challenges with innovation and creativity. Committed to excellence, I transform ideas into impactful, user-centric designs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Uj4DJ7ZRqnENTo38fQwe3UUgxErg2cpS/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1CSiT5Zg77xwGkFPy5OOqPaI2Ni5w9dgw/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -131,8 +131,8 @@ const workExperiences = {
     {
       role: "Frontend Developer Intern",
       company: "GolokaIT",
-      link:"https://drive.google.com/file/d/1ldA-IaiU9EfBQHaf1qyvmxOkg7w_WJnW/view?usp=sharing",
-      date: "July 2024 – August 2024",
+      link:"https://drive.google.com/file/d/1fGPNQGTzsk4qgllS-ZQgcYyM5K3XghJm/view?usp=sharing",
+      date: "July 2024 – December 2024",
       desc: "Completed an internship by GoloksIT on a role of Frontend Developer.",
    
     },
