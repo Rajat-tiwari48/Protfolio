@@ -26,7 +26,7 @@ const greeting = {
     "Passionate about crafting cutting-edge web solutions to tackle real-world challenges with innovation and creativity. Committed to excellence, I transform ideas into impactful, user-centric designs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1EMnIyZ1c-rH0wYn5aA6n87XlsBJnZaTK/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1gw4vOBtFpu6bHx-1K6f6mbXEzxMGraSg/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -128,6 +128,14 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+        {
+      role: "Software Developer",
+      company: "SejiTech Pvt. Ltd.",
+      // link:"https://drive.google.com/file/d/1fGPNQGTzsk4qgllS-ZQgcYyM5K3XghJm/view?usp=sharing",
+      date: "Feb 2025 – Present",
+      desc: "Working as a MERN STACK Developer at SejiTech Pvt. Ltd., contributing to the development of innovative software solutions and enhancing user experiences through cutting-edge technologies.",
+   
+    },
     {
       role: "Frontend Developer Intern",
       company: "GolokaIT",
