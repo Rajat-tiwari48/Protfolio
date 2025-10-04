@@ -52,7 +52,7 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
-            <img className="profile-photo" src={require("../../assets/images/rajat1.jpg")} alt="Rajat Tiwari"/>
+            <img className="profile-photo" src={require("./Rajat.png")} alt="Rajat Tiwari"/>
           </div>
         </div>
       </div>
