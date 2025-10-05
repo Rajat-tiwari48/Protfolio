@@ -26,7 +26,7 @@ const greeting = {
     "Passionate about crafting cutting-edge web solutions to tackle real-world challenges with innovation and creativity. Committed to excellence, I transform ideas into impactful, user-centric designs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1gw4vOBtFpu6bHx-1K6f6mbXEzxMGraSg/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/14OKtEM_X8m0hRGcmWPJU67pQHsKpNLpW/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -197,17 +197,17 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/tomato-logos.png"),
-      imageDark: require("./assets/images/tomato-logos.png"),
-      projectName: "TOMATO Food App",
-      projectDesc: "Food Ordering App",
+      image: require("./assets/images/C-chat-logo.png"),
+      imageDark: require("./assets/images/C-chat-logo.png"),
+      projectName: "C-Chat",
+      projectDesc: "Chat Application",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://tomato-sage-theta.vercel.app/"
+          url: "https://project-rajat-tiwari-protfolio.vercel.app/"
         },  {
           name: "Github",
-          url: "https://github.com/Rajat-tiwari48/Tomato"
+          url: "https://github.com/Rajat-tiwari48/Chat-Application"
         }
       ]
     },
@@ -219,7 +219,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://netflix-five-pink-69.vercel.app/"
+          url: "https://project-rajat-tiwari-protfolio.vercel.app/"
         },  {
           name: "Github",
           url: "https://github.com/Rajat-tiwari48/netflix"
